@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <h1>Statistics Survey</h1>
-        <p>Thank you for submitting the survey!</p>
+        <p style="text-align: center;">Thank you for submitting the survey!</p>
     </div>
 </body>
 
