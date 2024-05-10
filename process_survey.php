@@ -40,6 +40,6 @@
         $stmt->close();
         $conn->close();
 
-        echo "New record created successfully";
+        header('Location: submited.php');
     }
 ?>
